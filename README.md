@@ -14,7 +14,7 @@ const skills = {
 ```
 <h2 align="center">Puedes contactarme en:</h2>
 
-<a href="https://www.linkedin.com/in/lilia-ram%C3%ADrez-vallejo-67486a184/">
+<a align="center" href="https://www.linkedin.com/in/lilia-ram%C3%ADrez-vallejo-67486a184/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lili linkedin" height="30" width="30">
   </a>
 
