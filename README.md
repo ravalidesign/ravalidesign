@@ -1,6 +1,6 @@
 ### Lili Front-End Developer  👋
 
-const habilidades = {
+```çconst habilidades = {
         softSkills: trabajo en equipo,empatia, flexibilidad, adptabilidad, 
         technicalSkills: JavaScript, HTML, CSS, React, Indesign, Illustrator, Photoshop, Affter Effects,
         AbaoutMe: Soy muy curiosa, creativa y autodidacta, creo firmemente que el uso de herramientas tecnologicas puede ayudar a camiar la vida de las personas 
