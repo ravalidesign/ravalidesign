@@ -5,6 +5,8 @@
         technicalSkills: JavaScript, HTML, CSS, React, Indesign, Illustrator, Photoshop, Affter Effects,
         AbaoutMe: Soy muy curiosa, creativa y autodidacta, creo firmemente que el uso de herramientas tecnologicas puede ayudar a camiar la vida de las personas 
       };
+      
+ ```
 
 <!--
 **ravalidesign/ravalidesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
