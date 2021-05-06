@@ -4,7 +4,7 @@
 const skills = {
     softSkills: ["Trabajo en equipo", "Adaptabilidad ", "Tolerancia", "Creatividad"],
     technicalSkills: ["JavaScript", "HTML", "CSS", "React", "Indesign", "Illustrator", "Photoshop", "AfterEffects",],
-    AboutMe: Curiosa, creativa, Autodidacta,
+    AboutMe: ["Curiosa", "Creativa", "Autodidacta", "Me gusta el cine, el arte y los animales"],
 };
 ```
 
