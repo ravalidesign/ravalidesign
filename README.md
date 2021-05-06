@@ -1,5 +1,5 @@
 ### Lili Front-End Developer  👋
-<h2>  <img src="https://cdn-images-1.medium.com/max/1200/1*mlFkczi1KC2fxq4pfPxWHQ.png" width="50"> Lili Front-End Developer /Diseñadora Integral 
+<h2>  <img src="https://cdn-images-1.medium.com/max/1200/1*mlFkczi1KC2fxq4pfPxWHQ.png" width="50"> Lili Front-End Developer /Diseñadora Integral <br>
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
 
 ```javascript
