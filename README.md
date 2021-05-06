@@ -1,5 +1,5 @@
 ### Lili Front-End Developer  👋
-<h2> I'm Lili! <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"></h2>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
 
 ```javascript
 const skills = {
