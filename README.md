@@ -1,6 +1,6 @@
-### Lili Front-End Developer  👋
-<h2>  <img src="https://cdn-images-1.medium.com/max/1200/1*mlFkczi1KC2fxq4pfPxWHQ.png" width="30"> 
-    Lili Front-End Developer /Diseñadora Integral
+### ¡Hola Soy Lili! 👋
+<h2> <img src="https://cdn-images-1.medium.com/max/1200/1*mlFkczi1KC2fxq4pfPxWHQ.png" width="30"> 
+     Front-End Developer /Diseñadora Integral
     <img src="https://media.giphy.com/media/3oz8xDp5mAEOAZXEPe/giphy.gif" width="30">  
 </h2><br>
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
