@@ -12,6 +12,12 @@ const skills = {
     AboutMe: ["Curiosa, creativa y autodidacta, me gusta el cine, el arte y los animales"],
 };
 ```
+<h2 align="center">Puedes contactarme en:</h2>
+
+<a href="www.linkedin.com/in/lilia-ramírez-vallejo">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lili linkedin" height="30" width="30">
+  </a>
+
 
 <!--
 **ravalidesign/ravalidesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
